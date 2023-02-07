@@ -1,0 +1,12 @@
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\bin\Debug\proyectofinalista.exe.config
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\bin\Debug\proyectofinalista.exe
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\bin\Debug\proyectofinalista.pdb
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\bin\Debug\proyectofinalista.xml
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.vbproj.AssemblyReference.cache
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.Form1.resources
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.Resources.resources
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.vbproj.GenerateResource.cache
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.vbproj.CoreCompileInputs.cache
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.exe
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.xml
+C:\Users\lucil\source\repos\proyectofinalista\proyectofinalista\obj\Debug\proyectofinalista.pdb
